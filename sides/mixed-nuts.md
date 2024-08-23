@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- Ingredient 1
+- Kiwi
 - Ingredient 2
 
 
