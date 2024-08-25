@@ -3,8 +3,8 @@
 ## Ingredients
 
 - Kiwi
-- Pecan
 
+- Pecan
 
 ## Instructions
 
