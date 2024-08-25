@@ -3,7 +3,7 @@
 ## Ingredients
 
 - Kiwi
-- Ingredient 2
+- Peanut
 
 
 ## Instructions
